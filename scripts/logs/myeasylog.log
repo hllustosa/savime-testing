@@ -1,0 +1,6 @@
+2018-06-21 11:36:53,362 FATAL [default] could not open '../unit_test_data/savime_test' for reading. ABORT!
+
+2018-06-21 11:36:53,362 FATAL [default] could not open '../unit_test_data/savime_test' for reading. ABORT!
+
+2018-06-21 11:36:53,362 WARN  [default] Aborting application. Reason: Fatal log at [MHM.cpp:1755]
+2018-06-21 11:36:53,362 WARN  [default] Aborting application. Reason: Fatal log at [MHM.cpp:1755]
